@@ -3,7 +3,7 @@ package com.mercadolivro.model
 import java.util.*
 
 data class CustomerModel(
-        var uuid: String,
+        var id: Int,
         var fullName: String,
         var email: String,
         var createdAt: Date,
