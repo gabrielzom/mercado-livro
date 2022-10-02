@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RequestBody
 import org.springframework.web.bind.annotation.RequestParam
 import org.springframework.web.bind.annotation.ResponseStatus
 import kotlin.collections.List
-import java.util.Date
 
 @RequestMapping("/customer")
 @RestController
